@@ -1,0 +1,11 @@
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\bin\Debug\netcoreapp2.1\VsCodeTestBoard003.deps.json
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\bin\Debug\netcoreapp2.1\VsCodeTestBoard003.runtimeconfig.json
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\bin\Debug\netcoreapp2.1\VsCodeTestBoard003.runtimeconfig.dev.json
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\bin\Debug\netcoreapp2.1\VsCodeTestBoard003.dll
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\bin\Debug\netcoreapp2.1\VsCodeTestBoard003.pdb
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\obj\Debug\netcoreapp2.1\VsCodeTestBoard003.csprojAssemblyReference.cache
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\obj\Debug\netcoreapp2.1\VsCodeTestBoard003.csproj.CoreCompileInputs.cache
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\obj\Debug\netcoreapp2.1\VsCodeTestBoard003.AssemblyInfoInputs.cache
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\obj\Debug\netcoreapp2.1\VsCodeTestBoard003.AssemblyInfo.cs
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\obj\Debug\netcoreapp2.1\VsCodeTestBoard003.dll
+D:\CsProject\DesignPatternsSample\TestBoard\VsCodeTestBoard003\obj\Debug\netcoreapp2.1\VsCodeTestBoard003.pdb
